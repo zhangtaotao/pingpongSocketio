@@ -95,14 +95,13 @@ Carthage
 -----------------
 Add this line to your `Cartfile`:
 ```
-github "socketio/socket.io-client-swift" ~> 8.3.3 # Or latest version
-```
+github "zhangtaotao/pingpongSocketio" ~> 8.3.3 # Or latest version
 
 Run `carthage update --platform ios,macosx`.
 
 CocoaPods 1.0.0 or later
 ------------------
-Create `Podfile` and add `pod 'Socket.IO-Client-Swift'`:
+Create `Podfile` and add `pod 'pingpongSocketio'`:
 
 ```ruby
 use_frameworks!
