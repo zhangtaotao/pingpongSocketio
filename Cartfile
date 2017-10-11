@@ -1,1 +1,1 @@
-github "zhangtaotao/socket.io-client-swift" ~> 8.3.3 # Or latest version
+github "zhangtaotao/pingpongSocketio.git" ~> 8.3.3 # Or latest version
